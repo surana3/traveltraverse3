@@ -9,7 +9,7 @@ button.on('click', doSomething);
    header.removeClass('hidden')
  }
 
-var buttonsix = $('.culture')
+var buttonsix = $('.culture');
 var headersix = $('.two');
 buttonsix.on('click', doSomethingsix);
 
@@ -17,7 +17,7 @@ buttonsix.on('click', doSomethingsix);
    headersix.removeClass('hidden')
  }
 
-var buttonseven = $('.history')
+var buttonseven = $('.history');
 var headerseven = $('.seven');
 buttonseven.on('click', doSomethingseven);
 
@@ -25,7 +25,7 @@ buttonseven.on('click', doSomethingseven);
    headerseven.removeClass('hidden')
  }
 
-var buttontwo = $('.water')
+var buttontwo = $('.water');
 var headertwo = $('.three');
 buttontwo.on('click', doSomethingtwo);
 
@@ -33,7 +33,7 @@ buttontwo.on('click', doSomethingtwo);
    headertwo.removeClass('hidden')
  }
 
-var buttonthree = $('.warm')
+var buttonthree = $('.warm');
 var headerthree = $('.four');
 buttonthree.on('click', doSomethingthree);
 
@@ -41,7 +41,7 @@ buttonthree.on('click', doSomethingthree);
    headerthree.removeClass('hidden')
  }
 
-var buttonfour = $('.cool')
+var buttonfour = $('.cool');
 var headerfour = $('.five');
 buttonfour.on('click', doSomethingfour);
 
@@ -49,7 +49,7 @@ buttonfour.on('click', doSomethingfour);
    headerfour.removeClass('hidden')
  }
 
-var buttoneight = $('.no')
+var buttoneight = $('.no');
 var headereight = $('.eight');
 buttoneight.on('click', doSomethingeight);
 
@@ -57,7 +57,7 @@ buttoneight.on('click', doSomethingeight);
    headereight.removeClass('hidden')
  }
 
-var buttonnine = $('.yes')
+var buttonnine = $('.yes');
 var headernine = $('.nine');
 buttonnine.on('click', doSomethingnine);
 
@@ -65,7 +65,7 @@ buttonnine.on('click', doSomethingnine);
    headernine.removeClass('hidden')
  }
 
-var buttonten = $('.yestwo')
+var buttonten = $('.yestwo');
 var headerten = $('.ten');
 buttonten.on('click', doSomethingten);
 
@@ -73,7 +73,7 @@ buttonten.on('click', doSomethingten);
    headerten.removeClass('hidden')
  }
 
-var buttoneleven = $('.notwo')
+var buttoneleven = $('.notwo');
 var headereleven = $('.eleven');
 buttoneleven.on('click', doSomethingeleven);
 
