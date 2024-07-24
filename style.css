@@ -1,0 +1,130 @@
+/*DO NOT DELETE OR CHANGE (from below)*/
+/* Correctly start the comment here */
+.hidden {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.six hidden {
+  display: none;
+}
+.seven hidden {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.nine hidden {
+  display: none;
+}
+.ten hidden {
+  display: none;
+}
+.eleven hidden {
+  display: none;
+}
+/*DO NOT DELETE (from above)*/
+
+/* Navigation Bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul {
+  list-style: none;
+  padding-right: 40%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex; 
+  justify-content: flex-end;
+  background-color: #000040;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: lightblue; 
+  font-family: 'Chonburi', cursive;
+  font-size: 15px;
+}
+
+nav a:hover {
+  font-weight: bold; 
+  text-decoration: underline; 
+}
+/* Page Layout */
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 60px 30px 60px 30px;
+  padding: 0 20px;
+  margin-block-end: 200px;
+  background-color: lightblue;
+}
+/* Headings */
+h1 {
+  color: #000040;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h2 {
+  color: #000040;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h3 {
+  color: #000040;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h4 {
+  color: #000040;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+text {
+  color: #000040;
+  font-size: 17px;
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.75;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+/* Button */
+.views, .culture, .water, .history, .warm, .cool, .yes, .no,  .yestwo, .notwo, .ten hidden, .eleven hidden, .five hidden, eight hidden, nine hidden, {
+  color: #000040;
+  background-color: #e8e8f2;
+  font-family: 'Cairo', sans-serif;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.views:hover, .culture:hover, .water:hover, .history:hover, .warm:hover, .cool:hover, .yes:hover, .no:hover, .yestwo:hover, .notwo:hover, .ten.hidden:hover, .eleven.hidden:hover, .five.hidden:hover, .eight.hidden:hover, .nine.hidden:hover {
+  color: #e8e8f2;
+  background-color: forestgreen;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+
+

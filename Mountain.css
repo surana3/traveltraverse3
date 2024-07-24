@@ -1,0 +1,92 @@
+.tram {
+  width: 360px;
+  height: 320px;
+  object-fit: cover;
+  padding-right: 25px;
+  padding-left: 25px; 
+}
+.view {
+  width: 340px;
+  height: 300px;
+  object-fit: cover;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding-right: 40%;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex; 
+  justify-content: flex-end;
+  background-color: #000040;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: lightblue; 
+  font-family: 'Chonburi', cursive;
+  font-size: 15px;
+}
+
+nav a:hover {
+  font-weight: bold; 
+  text-decoration: underline; 
+}
+/* Page Layout */
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 60px 30px 60px 30px;
+  padding: 0 20px;
+  margin-block-end: 200px;
+  background-color: lightblue;
+}
+/* Headings */
+h1 {
+  color: #000040;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h2 {
+  color: #000040;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h3 {
+  color: #000040;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+h4 {
+  color: #000040;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Chonburi', cursive;
+}
+text {
+  color: #000040;
+  font-size: 17px;
+  font-family: 'Cairo', sans-serif;
+  line-height: 1.75;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
